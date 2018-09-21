@@ -7,7 +7,7 @@ categories: machine-learning
 
 # About
 
-Capstone project is the last thing on the way to obtain IBM Data Science Professional Certificate from course on Coursera [https://www.coursera.org/]
+Capstone project is the last thing on the way to obtain IBM Data Science Professional Certificate from course on [Coursera](https://www.coursera.org/)
 
 # Project title
 
@@ -21,10 +21,10 @@ This project tries to answer question about what part of San Francisco city seem
 # Data
 
 Data used in this project is publicly available. It will consist of:  
-1. SF Fire Data (Incidents, Violations, and more) dataset [https://www.kaggle.com/san-francisco/sf-fire-data-incidents-violations-and-more]    
-2. SF Police Calls for Service and Incidents dataset [https://www.kaggle.com/san-francisco/sf-police-calls-for-service-and-incidents]   
-3. SF Geojson [https://data.sfgov.org/api/geospatial/pty2-tcw4?method=export&format=GeoJSON]  
+1. [SF Fire Data (Incidents, Violations, and more) dataset](https://www.kaggle.com/san-francisco/sf-fire-data-incidents-violations-and-more)  
+2. [SF Police Calls for Service and Incidents dataset](https://www.kaggle.com/san-francisco/sf-police-calls-for-service-and-incidents)   
+3. [SF Geojson](https://data.sfgov.org/api/geospatial/pty2-tcw4?method=export&format=GeoJSON)   
 
 # Methodology
 
-Jupyter notebook available on GitHub [https://github.com/tyburam/Coursera_Capstone/blob/master/City%20Safeness%20-%20San%20Francisco.ipynb]
+Jupyter notebook available on [GitHub](https://github.com/tyburam/Coursera_Capstone/blob/master/City%20Safeness%20-%20San%20Francisco.ipynb)
