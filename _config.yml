@@ -1,17 +1,17 @@
-title: John Smith
+title: Mateusz Tybura
 description: My Personal Blog
-author: John Smith
+author: Mateusz Tybura
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
-about: Freelance developer
+about: Software Engineer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://tyburam.github.io/"
+url: "https://tyburam.github.io/"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+#disqus_shortname: aboutashu
+#google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
