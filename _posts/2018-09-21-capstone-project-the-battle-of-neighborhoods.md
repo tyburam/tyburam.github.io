@@ -78,7 +78,7 @@ sf_police.head()
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -173,7 +173,7 @@ sf_fire.head()
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -326,7 +326,7 @@ sf_police_incidents
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -996,7 +996,7 @@ sf_fire_incidents
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -2629,7 +2629,7 @@ merged_incidents
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -6179,7 +6179,7 @@ sf_clustered
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -9689,7 +9689,7 @@ sf_clustered.loc[sf_clustered['Neighborhood'].isin(safest_ones)][['Neighborhood'
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -9807,7 +9807,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 0]
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -12367,7 +12367,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 0].describe()
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -13105,7 +13105,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 1]
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -13453,7 +13453,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 1].describe()
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -14191,7 +14191,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 2]
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -14460,7 +14460,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 2].describe()
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -15198,7 +15198,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 3]
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -15546,7 +15546,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 3].describe()
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -16284,7 +16284,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 4]
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -16474,7 +16474,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 4].describe()
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -17212,7 +17212,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 5]
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -17560,7 +17560,7 @@ sf_clustered.loc[sf_clustered['Cluster Labels'] == 5].describe()
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -18300,7 +18300,7 @@ sf_clustered.groupby(['Cluster Labels'])[['Total_police', 'Total_fire', 'Total']
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
@@ -18554,7 +18554,7 @@ sf_clustered.groupby(['Cluster Labels'])[['Total_police', 'Total_fire', 'Total']
 
 
 
-<div>
+<div style="overflow-x: scroll;">
 <style>
     .dataframe thead tr:only-child th {
         text-align: right;
