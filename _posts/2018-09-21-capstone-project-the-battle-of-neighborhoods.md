@@ -886,7 +886,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+![png](/assets/output_26_0.png)
 
 
 
@@ -900,7 +900,7 @@ plt.show()
 ```
 
 
-![png](output_27_0.png)
+![png](/assets/output_27_0.png)
 
 
 
@@ -914,7 +914,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](/assets/output_28_0.png)
 
 
 
@@ -928,7 +928,7 @@ plt.show()
 ```
 
 
-![png](output_29_0.png)
+![png](/assets/output_29_0.png)
 
 
 Map of police incidents by neighborhoods
@@ -2551,7 +2551,7 @@ plt.show()
 ```
 
 
-![png](output_42_0.png)
+![png](/assets/output_42_0.png)
 
 
 
@@ -2565,7 +2565,7 @@ plt.show()
 ```
 
 
-![png](output_43_0.png)
+![png](/assets/output_43_0.png)
 
 
 
@@ -2579,7 +2579,7 @@ plt.show()
 ```
 
 
-![png](output_44_0.png)
+![png](/assets/output_44_0.png)
 
 
 Map of fire incidents by neighborhoods
